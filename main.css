@@ -1,0 +1,19 @@
+svg{
+    width: 50%;
+    fill: #0a7f74;
+    display: block;
+    margin: auto;
+}
+
+.anim {
+    animation: fadeIn;
+    animation-duration: 2s;
+
+    animation: rotateIn;
+    animation-duration: 1s;
+}
+
+@keyframes
+
+
+
